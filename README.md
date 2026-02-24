@@ -5,10 +5,10 @@
 
 > I write Kotlin by day, draw worlds by night, and ship products that matter to people back home.
 
-I build polished, production-grade Android experiences with Jetpack Compose and Kotlin Multiplatform. Between roles and currently **open to new opportunities** — while independently building:
+I build polished, production-grade Android experiences with Jetpack Compose and Kotlin Multiplatform. Currently **open to new opportunities**, while independently building:
 
-- 💳 **[LipaOS](https://lipaos.com)** — A touch-friendly POS for food stalls & markets, with M-Pesa built in
-- 👶 **TotoBeep** — A parenting app built with love
+- 💳 **[LipaOS](https://lipaos.com)**: A touch-friendly POS for food stalls & markets, with M-Pesa built in
+- 👶 **TotoBeep**: A parenting app built with love
 
 
 ### 🛠 Tech Stack
