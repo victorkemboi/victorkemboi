@@ -46,7 +46,7 @@ I build polished, production-grade Android experiences with Jetpack Compose and 
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorkemboi&theme=chartreuse_dark" alt="Languages by Commit" />
 </p>
 
-[![Victor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=victorkemboi&theme=chartreuse-dark&hide_border=true&area=true&days=10)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Victor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=victorkemboi&theme=chartreuse-dark&hide_border=true&area=true&days=30)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 ### 🤝 Connect
