@@ -1,6 +1,6 @@
 # Hi, I'm Victor Kiprop 👋
 
-### Senior Android Engineer · Indie Maker · Illustrator · Nairobi, Kenya
+### Software Engineer · Indie Maker · Illustrator · Nairobi, Kenya
 ---
 
 > I write Kotlin by day, draw worlds by night, and ship products that matter to people back home.
